@@ -1,6 +1,6 @@
 Hello! I'm @kingrad0500 😊
 I'm a software engineer and Web Developer FullStack🖥📐🔧🔨
-I'm more Javascript and Python Dev but I have skills in C#, Swift, Kotlin, php and SQL and NO-SQL. 💡✨
+I'm more Javascript and Python Dev but I have skills in C#, Swift, Kotlin, php, SQL and NO-SQL. 💡✨
 I have experience working as DBA with some little companies in my country Peru 🔧📈
 I'm always available to collaborate with anybody who needs help! ✌
 
